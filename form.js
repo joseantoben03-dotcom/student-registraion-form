@@ -1,4 +1,4 @@
-// Show welcome alert when page loads
+// Show welcome alert when page load
 window.addEventListener("load", function() {
   alert("Welcome! Please fill out the registration form.");
 });
